@@ -40,39 +40,36 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+
+The purpose of this survey is to understand why entry- and lower-level employees are leaving the company and what factors affect their job satisfaction. The survey results will help the company identify changes that could reduce turnover, such as improving pay, management, workload, career growth, or workplace culture.
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+The target population is all current entry- and lower-level employees at the tech company (including people who joined within the last 2 years). The sampling frame would be the company’s HR employee list for these roles (internal records of employees and contact emails). The sampling units are individual employees selected from that HR list. The observational units are also the individual employees, because the data collected (responses) come directly from each person about their experiences.
+
+I would use stratified random sampling by department (and maybe role level) so the survey includes people from different teams, not just one area. If the company allows it, I would invite everyone in the frame, but if the company is too large, I would sample a set number from each department to make it balanced.
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1. How long have you worked at the company?
+2. Which department do you work in?
+3. Overall, how satisfied are you with your job right now?
+4. How likely are you to look for a new job in the next 6 months?
+5. What factors most affect your job satisfaction? (select up to three)
+6. Do you feel you have clear opportunities for career growth or promotion?
+7. How supported do you feel by your direct manager?
+8. How fair do you think your pay is compared to similar roles in other companies?
+9. If you could change one thing to improve your experience at work, what would it be?
+10. Is there anything else you would like to share about your experience at the company?
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
-
-```
-write your answer here
-```
+The Canadian General Social Survey (GSS) on Giving, Volunteering and Participating, 2018 is a national survey by Statistics Canada. It uses a probability sampling design with a sample size of several thousand respondents. The target population is Canadians aged 15 and older living in private households in the ten provinces, and the sampling frame is based on household and telephone listings.
+The survey mode is mainly telephone interviews, and data were collected between September and December 2018. Survey weights are applied to make the results representative of the Canadian population, and the data are processed and cleaned by Statistics Canada before release.
+Main sources of error include sampling error and non-response bias. A key limitation is that people living in institutions and those in the territories are not included. The data are also self-reported, which may introduce reporting bias.
 
 ## Rubric
 
